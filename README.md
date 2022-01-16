@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ###  I’m currently working on 🔭
-- Coding consistently to look 😁
+- Coding consistently 
+- Deep learning
 
 ### I’m currently learning 🌱
 - Pytorch
