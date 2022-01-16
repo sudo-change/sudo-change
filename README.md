@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **sudo-change/sudo-change** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+###  I’m currently working on 🔭
+- Coding consistently to look 😁
+
+### I’m currently learning 🌱
+- Pytorch
+- NLP
+
+
+### I’m looking to collaborate on 👯 
+- NLP Project
