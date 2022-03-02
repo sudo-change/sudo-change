@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 
 ###  I’m currently working on 🔭
-- Coding consistently 
-- Deep learning
+- API's
+- Coding consistently
 
 ### I’m currently learning 🌱
-- Pytorch
-- NLP
+- GO
+
 
 
 ### I’m looking to collaborate on 👯 
-- NLP Project
+- Go projects
