@@ -15,14 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###  I’m currently working on 🔭
-- API's
-- Coding consistently
-
-### I’m currently learning 🌱
-- GO
-
-
-
-### I’m looking to collaborate on 👯 
-- Go projects
